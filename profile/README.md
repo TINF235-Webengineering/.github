@@ -2,7 +2,6 @@
 
 ### Gruppenmitglieder:
 * Moumen
-* Philipp
 * Valentin
 * Yahya
 * Jonas
